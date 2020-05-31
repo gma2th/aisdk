@@ -4,6 +4,7 @@
 
 We will analyze a sample of AIS data from the Danish Maritime Authority.
 You can jump straight to the jupyter notebook as we already preprocess the data.
+You can run it in a MyBinder notebook, no installation required: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gma2th/aisdk/master?filepath=analysis.ipynb)
 
 The data as been preprocessed using postgres, postgis, and timescaledb. We performed the following:
 
